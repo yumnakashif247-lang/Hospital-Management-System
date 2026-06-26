@@ -1,2 +1,2 @@
 # Hospital-Management-System
-A collection of Java GUI-based Object-Oriented Programming (OOP) projects that demonstrate real-world application development using Java Swing. The repository showcases core OOP concepts including inheritance, encapsulation, abstraction, polymorphism, association, aggregation, and composition through interactive desktop applications.
+A comprehensive Hospital Management System developed in Java using Object-Oriented Programming principles. Features doctor and patient management, appointment scheduling, billing, persistent file storage, and a Swing-based GUI, showcasing clean architecture and real-world software design.
